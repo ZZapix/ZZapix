@@ -1,16 +1,13 @@
-### Hi there i 👋
+### Hi there 👋
+I'm Zapix
 
-<!--
-**ZZapix/ZZapix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 📫 Connect with Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Twitter: [@Zapix_](https://twitter.com/Zapix_)
+  
+  Discord: [apZxi#2021](https://discord.com/users/334173332280705024)
+ 
+  Website: [zapix.xyz](https://zapix.xyz)
+  
